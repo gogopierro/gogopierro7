@@ -1,1 +1,4 @@
-Ceci est un rajout
+Pour récapituler brièvement le cours :
+
+Pour avoir un site en ligne il faut héberger le code, et acheter un nom de domaine. La plupart vendeurs de noms de domaine proposent un hébergement de code simple. OVH est une solution peu chère et pratique qui fait le travail
+Il existe des services d'hébergement de code qui te proposent en plus d'avoir une version accessible en ligne de ton site. GitHub Pages est l'un des plus connus et réputésCeci est un rajout
