@@ -1,0 +1,2 @@
+Hello world !
+Traduction : bonjour monde
